@@ -5,23 +5,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadityajoshi151" alt="aadityajoshi151" /></a> </p>
 
-- 🔭 I’m currently working on **Report Generation Tool for Cyber Security Experts**
+- 🔭 I’m currently working on: **Report Generation Tool for Cyber Security Experts**
 
-- 🌱 I’m currently learning **Selenium with Python**
+- 🌱 I’m currently learning: **Selenium with Python**
 
-- 👯 I’m looking to collaborate on **Flutter Projects**
+- 👯 I’m looking to collaborate on: **Flutter Projects**
 
-- 🤝 I’m looking for help with **Background Processes in Native Android**
+- 🤝 I’m looking for help with: **Background Processes in Native Android**
 
-- 👨‍💻 All of my projects are available at [https://aadityajoshi151.github.io/](https://aadityajoshi151.github.io/)
+- 👨‍💻 All of my projects are available at: [https://aadityajoshi151.github.io/](https://aadityajoshi151.github.io/)
 
-- 📝 I write articles on [https://thissforthat.com/index.php/user/aadityajoshi/?profiletab=posts](https://thissforthat.com/index.php/user/aadityajoshi/?profiletab=posts)
+- 📝 I write articles on: [https://thissforthat.com/index.php/user/aadityajoshi/?profiletab=posts](https://thissforthat.com/index.php/user/aadityajoshi/?profiletab=posts)
 
-- 💬 Ask me about **Spiderman 🕸️**
+- 💬 Ask me about: **Spiderman 🕸️**
 
-- 📫 How to reach me **aadityajoshi151@gmail.com**
+- 📫 How to reach me: **aadityajoshi151@gmail.com**
 
-- ⚡ Fun fact **I Like to Polish Shoes 👞**
+- ⚡ Fun fact: **I Like to Polish Shoes 👞**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
