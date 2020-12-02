@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with: **Background Processes in Native Android**
 
-- 👨‍💻 All of my projects are available at: [https://aadityajoshi151.github.io/](https://aadityajoshi151.github.io/)
+- 👨‍💻 All of my projects are available at: **[https://aadityajoshi151.github.io/](https://aadityajoshi151.github.io/)**
 
-- 📝 I write articles on: [https://thissforthat.com/index.php/user/aadityajoshi/?profiletab=posts](https://thissforthat.com/index.php/user/aadityajoshi/?profiletab=posts)
+- 📝 I write articles on: **[https://thissforthat.com/index.php/user/aadityajoshi/?profiletab=posts](https://thissforthat.com/index.php/user/aadityajoshi/?profiletab=posts)**
 
 - 💬 Ask me about: **Spiderman 🕸️**
 
