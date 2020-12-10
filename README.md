@@ -17,7 +17,7 @@
 
 - 📝 I write articles on: **[https://thissforthat.com/index.php/user/aadityajoshi/?profiletab=posts](https://thissforthat.com/index.php/user/aadityajoshi/?profiletab=posts)**
 
-- 💬 Ask me about: **Spiderman 🕸️**
+- 💬 Talk to me about: **Spiderman 🕸️ and Harry Potter 🪄**
 
 - 📫 How to reach me: **aadityajoshi151@gmail.com**
 
