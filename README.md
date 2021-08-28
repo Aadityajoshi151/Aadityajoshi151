@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadityajoshi151" alt="aadityajoshi151" /></a> </p>
 
-- 🔭 I’m currently working on: **Vault Webpage**
+- 🔭 I’m currently working on: **VeritaSnap app (Electron)**
 
 - 🌱 I’m currently learning: **Selenium with Python**
 
