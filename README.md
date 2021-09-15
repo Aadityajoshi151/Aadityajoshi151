@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on: **VeritaSnap app (Electron)**
 
-- 🌱 I’m currently learning: **Selenium with Python**
+- 🌱 I’m currently learning: **Basics of Linux**
 
 - 👯 I’m looking to collaborate on: **Flutter Projects**
 
