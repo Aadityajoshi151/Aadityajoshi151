@@ -45,4 +45,4 @@
 - [ ] Improve [Auto Mouse Mover](https://github.com/Aadityajoshi151/Auto-Mouse-Mover)
 - [ ] Develop a New App Using Tkinter/Electron
 - [ ] Develop a New Android App Using Flutter
-- [ ] For Starters, Contribute On Atleast 1 Open Source Project. More If Possible.
+- [X] For Starters, Contribute On Atleast 1 Open Source Project. More If Possible.
