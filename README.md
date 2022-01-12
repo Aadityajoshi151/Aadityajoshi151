@@ -36,7 +36,7 @@
 
 ### Goals for 2022:
 
-- [ ] Improve [Bollywood](https://github.com/Aadityajoshi151/Bollywood) Desktop App
+- [X] Improve [Bollywood](https://github.com/Aadityajoshi151/Bollywood) Desktop App
 - [ ] Improve [VeritaSnap](https://github.com/Aadityajoshi151/VeritaSnap) App And Put It On Electron.js App List
 - [ ] Improve [Breaktime](https://aadityajoshi151.github.io/Breaktime/) App
 - [ ] Improve [Blue Light Filter](https://aadityajoshi151.github.io/Blue-Light-Filter/) App And Put It On Electron.js App List
