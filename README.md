@@ -42,7 +42,7 @@
 - [ ] Improve [VeritaSnap](https://github.com/Aadityajoshi151/VeritaSnap) App And Put It On Electron.js App List
 - [ ] Improve [Breaktime](https://aadityajoshi151.github.io/Breaktime/) App
 - [ ] Improve [Blue Light Filter](https://aadityajoshi151.github.io/Blue-Light-Filter/) App And Put It On Electron.js App List
-- [ ] Improve [PSA DDL Checker](https://github.com/Aadityajoshi151/PSA-DDL-Checker)
+- [X] Improve [PSA DDL Checker](https://github.com/Aadityajoshi151/PSA-DDL-Checker)
 - [ ] Improve [Easyry](https://github.com/Aadityajoshi151/Easyry)
 - [ ] Improve [Auto Mouse Mover](https://github.com/Aadityajoshi151/Auto-Mouse-Mover)
 - [ ] Develop a New App Using Tkinter/Electron
