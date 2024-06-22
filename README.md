@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadityajoshi151" alt="aadityajoshi151" /></a> </p>
 
-- 🔭 I’m currently working on: **Homeserver**
+- 🔭 I’m currently working on: **My Homelab**
 
-- 🌱 I’m currently learning: **Docker**
+- 🌱 I’m currently learning: **Golang**
 
 - 👯 I’m looking to collaborate on: **IOT Projects / Homeserver or Selfhosted Projects**
 
