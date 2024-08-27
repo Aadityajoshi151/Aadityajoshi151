@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on: **My Homelab**
 
-- 🌱 I’m currently learning: **Golang**
+- 🌱 I’m currently learning: **How to Create REST APIs**
 
 - 👯 I’m looking to collaborate on: **IOT Projects / Homeserver or Selfhosted Projects**
 
